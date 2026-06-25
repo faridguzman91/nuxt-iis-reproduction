@@ -1,0 +1,12 @@
+{
+  "name": "nuxt-sendredirect-baseurl-repro",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "node .output/server/index.mjs"
+  },
+  "dependencies": {
+    "nuxt": "3.21.2"
+  }
+}
